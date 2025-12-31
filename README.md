@@ -1,4 +1,4 @@
-# Hi, I'm krish patel
+## Hi, I'm krish patel
 
 🎓 Computer Engineering Student  
 🤖 Interested in AI/ML and Computer Vision  
@@ -10,6 +10,7 @@
 - Passionate about real-world AI applications
 - Interested in collaborative tech projects
 - Exploring Data Analysis and AI Prompting
+- Building AI-Powered Real-World Applications
 
 ---
 
